@@ -16,3 +16,6 @@ What this app does:
 What this app does **NOT** do:
 
 - Implement user authentication
+
+
+Testing GIT Properly!
